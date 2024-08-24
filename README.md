@@ -1,12 +1,13 @@
 <div align="center">
 	<br>
 	<a href="https://github.com/joseasync/iOS-Developer-Portfolio/blame/main/header.svg">
-		<img src="header.svg" width="600" height="200" alt="">
+		<img src="header.svg" width="800" height="200" alt="">
 	</a>
 	<br>
+
+Here’s some of the projects I’ve worked on.
 </div>
 
-### Hey! I’m José Cruz, an iOS Engineer. Here’s some of the projects I’ve worked on.
 <br>
 
 ## [LetsGetChecked](https://apps.apple.com/us/app/letsgetchecked-health-testing/id1482260156)
